@@ -21,5 +21,11 @@ heres the bertweet finetuned model zip file : https://drive.google.com/drive/u/0
 
 9)bertweet hugging face -- quantization: https://drive.google.com/drive/u/0/folders/1GsOxiX_RFeD7soUd0e0CWM-8e3ITIN7B , prune: https://drive.google.com/drive/u/0/folders/1YVCZM7m5yFCx3vEkCqI-RLRxqy4n1WFI , knowledge distill: https://drive.google.com/drive/u/0/folders/1w_fOZVVzuYeu-qnKaLeMrQ_DYOMr2OjU
 
-10) bertweet - exc4 -- quantization: https://drive.google.com/drive/u/0/folders/17Nm1aQsnqal59H_Uewc9ZwIE359PgrzZ , prune: https://drive.google.com/drive/u/0/folders/1j8ZfDOQoPetHhB69-1VAw5s9eeKhg5oz , 
+10) bertweet - exc4 -- quantization: https://drive.google.com/drive/u/0/folders/17Nm1aQsnqal59H_Uewc9ZwIE359PgrzZ , prune: https://drive.google.com/drive/u/0/folders/1j8ZfDOQoPetHhB69-1VAw5s9eeKhg5oz , knowledge distill: None
 
+11) ct-bert - exc4 -- quantization: https://drive.google.com/drive/u/0/folders/15Jy01p8H0uMRayL853Al3rF0Q4VwfGIa , prune: https://drive.google.com/drive/u/0/folders/1YEQt4kd-984OkiXnfSXCLgQq_ZKvaIPA , knowledge distill: None
+
+******** HOW TO RUN TEST:
+-you pick a model, and install it.
+-install the test csv & the tes.ipynb files in: https://drive.google.com/drive/u/0/folders/1UxniheCMMc20059Uak1qKtZXjsRKkL9M
+-open the ipynb, adjust the paths of the test and model then run it.
