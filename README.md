@@ -25,6 +25,8 @@ heres the bertweet finetuned model zip file : https://drive.google.com/drive/u/0
 
 11) ct-bert - exc4 -- quantization: https://drive.google.com/drive/u/0/folders/15Jy01p8H0uMRayL853Al3rF0Q4VwfGIa , prune: https://drive.google.com/drive/u/0/folders/1YEQt4kd-984OkiXnfSXCLgQq_ZKvaIPA , knowledge distill: None
 
+12) bertweet-compress-example file above, has 2 ipynb files of the compressing proccess for bertweet
+
 ******** HOW TO RUN TEST:
 -you pick a model, and install it.
 -install the test csv & the tes.ipynb files in: https://drive.google.com/drive/u/0/folders/1UxniheCMMc20059Uak1qKtZXjsRKkL9M
