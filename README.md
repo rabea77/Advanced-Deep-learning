@@ -14,3 +14,8 @@
 heres the bertweet finetuned model zip file : https://drive.google.com/drive/u/0/folders/1f73VK6YFEotf7Z2_QBp5uoPdWpsbGQgA , covid-tweet-bert finetuned model: https://drive.google.com/drive/u/0/folders/1aZV5rGAct8kruF-sba19kkhBO4brr6HD .
 
 6)
+
+7)  the best models from HF, heres the finetuned bertweet model zip file: =====  covid-tweet-bert finetuned model: ========
+
+8)  
+
